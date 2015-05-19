@@ -20,12 +20,13 @@ or you can send message to me via Skype: conan_tpn
 
 == Installation ==
 How to install and config for this plugin.
+
 1. Upload `registration-page-shortcut.php` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 2. Create a page that you want to display registration form.
 3. Add shotcut [registration_form] to this page content
 4. Add menu for this page, take a look and enjoy your registration page.
-e.g.
+
 
 == Changelog ==
 
