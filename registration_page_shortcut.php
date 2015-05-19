@@ -1,7 +1,7 @@
 <?php
 /*
   Plugin Name: Registration Page Shortcut
-  Plugin URI: https://github.com/phplaw/wordpress-tips-tricks
+  Plugin URI: https://wordpress.org/plugins/registration-page-shortcut
   Description: Show registration form on a page, just add [registration_form] to the page to show the form.
   Version: 1.0
   Author: Sonny Nguyen
